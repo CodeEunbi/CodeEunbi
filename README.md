@@ -31,6 +31,18 @@ Though, I've only just begun, I'm committed to growing up step by step.
 
 ---
 
+## 📂 Projects
+
+| Name | Description | Stack | Link |
+|------|-------------|-------|------|
+| 🧠 **AI Author ChatBot Platform** | 도서 기반 작가 챗봇, 사용자 대화 저장 기능, 도서 리뷰 & 검색 통합 서비스 | Django, Vue, REST API, OpenAI | 🔗 [GitLab Repo](https://lab.ssafy.com/eunbi801/final-pjt) |
+
+> - 주요 기능: 작가별 챗봇(Q&A), 도서 검색, 댓글 기반 쓰레드, 마이페이지(대화 기록/내 글 관리)  
+> - 기여도: 프론트엔드(Vue) 및 백엔드(Django REST Framework) 전반 구현 참여  
+> - SSAFY 13기 최종 프로젝트 (4주 팀 프로젝트)
+
+---
+
 ### 📫 How to reach me
 - Email : eunbi801@naver.com/eunbi800@gmail.com
 - Blog : [https://blog.naver.com/eunbi801](https://blog.naver.com/eunbi801)
