@@ -2,8 +2,8 @@
 
 ### 🔭 I’m starter,,
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeEunbi&show_icons=true&theme=radical)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eunbi801)](https://solved.ac/eunbi801)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeEunbi&show_icons=true&theme=radical)
 
 
 
