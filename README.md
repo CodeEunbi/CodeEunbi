@@ -1,11 +1,16 @@
 ## Hi there 👋
 
-### 🔭 I’m starter,,
+### 🌱 I’m starter,,
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eunbi801)](https://solved.ac/eunbi801)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeEunbi&show_icons=true&theme=radical)
 
+### 🛠️Eunbi's Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 
 <!--
